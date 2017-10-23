@@ -1,0 +1,4 @@
+The diff command allowed me to easily spot the lines which were different
+between the two file, by looking for - and + symbols on the left,
+and then comparing those lines.
+
